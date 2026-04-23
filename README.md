@@ -16,6 +16,9 @@
 - 🖼 Frontend with **Vue.js** — from admin panels to full SPAs
 - ☁️ Deploying on **Kubernetes** & **Docker (Portainer)**
 - 🤖 Obsessed with **LLM integrations** and AI-driven tooling
+- 🧠 Building **AI Agents** — from document recognition pipelines to local LLM-powered diagnostic systems
+  - 📄 **Document AI Agent** — extracts structured data from unstructured documents and automatically generates formalized orders/records
+  - 🚘 **DTC Analyzer Agent** — local LLM agent for vehicle fault code (DTC) analysis, integrated with **MCP services** for real-time diagnostics
 
 ---
 
