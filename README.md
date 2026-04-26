@@ -6,9 +6,10 @@
   <a href="https://github.com/svalench"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🏢 Team Lead at **ALuSoftBel**, Minsk, Belarus
 - 🚀 Building SaaS products on the intersection of **AI, automation & web**
