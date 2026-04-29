@@ -9,7 +9,7 @@
 
 ---
 
-## About Me
+## About
 
 - 🏢 Team Lead at **ALuSoftBel**, Minsk, Belarus
 - 🚀 Building SaaS products on the intersection of **AI, automation & web**
