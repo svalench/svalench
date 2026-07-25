@@ -28,7 +28,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🚗 [aiscanauto.com](https://aiscanauto.com) | AI-powered OBD2 vehicle diagnostics | Python, ELM327, Vue |
-| 📡 [llmsradar.com](https://llmsradar.com) | LLM catalog & analysis platform | Python, Django, Vue |
+
 
 ---
 
