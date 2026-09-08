@@ -74,8 +74,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svalench&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svalench&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svalench&theme=tokyonight" width="95%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/svalench?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svalench&theme=tokyonight" height="170"/>
+  </a>
+  <a href="https://github.com/svalench">
+    <img src="https://streak-stats.demolab.com/?user=svalench&theme=tokyonight&hide_border=true" height="170"/>
+  </a>
 </p>
 
 ---
