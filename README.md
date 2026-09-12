@@ -27,6 +27,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🗣️ [echolang.io](https://echolang.io) | Offline AI voice translator for iPhone — on-device Whisper + TranslateGemma (MLX), 33 languages, fully private & offline | Swift, MLX, iOS |
 | 🚗 [aiscanauto.com](https://aiscanauto.com) | AI-powered OBD2 vehicle diagnostics | Python, ELM327, Vue |
 
 
