@@ -7,13 +7,13 @@
 <text x="470" y="66" fill="#a9b1d6" font-size="13" font-weight="600" text-anchor="end">13</text>
 <g transform="translate(25, 76.5)" fill="#7aa2f7"><path d="M7 0 L1.2 7 H4.9 L4.1 12 L10.9 4.7 H6.5 Z"/></g>
 <text x="50" y="88" fill="#a9b1d6" font-size="13">Commits (last year)</text>
-<text x="470" y="88" fill="#a9b1d6" font-size="13" font-weight="600" text-anchor="end">1,458</text>
+<text x="470" y="88" fill="#a9b1d6" font-size="13" font-weight="600" text-anchor="end">1,459</text>
 <g transform="translate(25, 98.5)" fill="#9ece6a"><circle cx="3.2" cy="3.4" r="2.1" fill="none" stroke="#9ece6a" stroke-width="1.4"/><circle cx="3.2" cy="8.6" r="2.1" fill="none" stroke="#9ece6a" stroke-width="1.4"/><circle cx="9.3" cy="8.6" r="2.1" fill="none" stroke="#9ece6a" stroke-width="1.4"/><path d="M3.2 5.5 V6.5 M5.3 8.6 H7.2" stroke="#9ece6a" stroke-width="1.4"/></g>
 <text x="50" y="110" fill="#a9b1d6" font-size="13">Total PRs</text>
-<text x="470" y="110" fill="#a9b1d6" font-size="13" font-weight="600" text-anchor="end">158</text>
+<text x="470" y="110" fill="#a9b1d6" font-size="13" font-weight="600" text-anchor="end">119</text>
 <g transform="translate(25, 120.5)" fill="#e0af68"><circle cx="6" cy="6" r="5" fill="none" stroke="#e0af68" stroke-width="1.4"/><circle cx="6" cy="6" r="1.6"/></g>
 <text x="50" y="132" fill="#a9b1d6" font-size="13">Total Issues</text>
-<text x="470" y="132" fill="#a9b1d6" font-size="13" font-weight="600" text-anchor="end">9</text>
+<text x="470" y="132" fill="#a9b1d6" font-size="13" font-weight="600" text-anchor="end">2</text>
 <g transform="translate(25, 142.5)" fill="#7dcfff"><circle cx="4.4" cy="3.1" r="2.3"/><path d="M0.7 11.9 C0.7 9.3 2.3 7.6 4.4 7.6 C6.5 7.6 8.1 9.3 8.1 11.9 Z"/></g>
 <text x="50" y="154" fill="#a9b1d6" font-size="13">Followers</text>
 <text x="470" y="154" fill="#a9b1d6" font-size="13" font-weight="600" text-anchor="end">4</text>
