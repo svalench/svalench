@@ -74,16 +74,22 @@
 
 ## 📊 GitHub Stats
 
+<!-- Stats cards are generated daily by GitHub Actions (.github/workflows/stats.yml)
+     and committed to /stats — no third-party badge services, no rate limits. -->
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svalench&theme=tokyonight" width="95%"/>
+  <img src="stats/contributions.svg" width="95%" alt="Contribution graph"/>
 </p>
 
 <p align="center">
+  <a href="https://github.com/svalench">
+    <img src="stats/stats.svg" height="185" alt="GitHub stats"/>
+  </a>
   <a href="https://github.com/svalench?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svalench&theme=tokyonight" height="170"/>
+    <img src="stats/languages.svg" height="185" alt="Most used languages"/>
   </a>
   <a href="https://github.com/svalench">
-    <img src="https://streak-stats.demolab.com/?user=svalench&theme=tokyonight&hide_border=true" height="170"/>
+    <img src="https://streak-stats.demolab.com/?user=svalench&theme=tokyonight&hide_border=true" height="170" alt="Streak stats"/>
   </a>
 </p>
 
