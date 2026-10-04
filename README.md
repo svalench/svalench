@@ -11,7 +11,7 @@
 
 ## About
 
-- 🏢 Team Lead at **ALuSoftBel**, Minsk, Belarus
+- 🏢 Teach Lead at **ALuSoftBel**, Minsk, Belarus
 - 🚀 Building SaaS products on the intersection of **AI, automation & web**
 - 🐍 Python backend lover — **FastAPI**, **Django**, async everything
 - 🖼 Frontend with **Vue.js** — from admin panels to full SPAs
