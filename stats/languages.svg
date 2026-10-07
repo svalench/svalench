@@ -3,13 +3,13 @@
 <rect width="495" height="255" rx="6" fill="#1a1b27" stroke="#1f2233"/>
 <text x="25" y="36" fill="#70a5cd" font-size="16" font-weight="600">Most Used Languages</text>
 <text x="25" y="58" fill="#a9b1d6" font-size="12.5">Python</text>
-<text x="470" y="58" fill="#a9b1d6" font-size="12.5" text-anchor="end">62.4%</text>
+<text x="470" y="58" fill="#a9b1d6" font-size="12.5" text-anchor="end">62.5%</text>
 <rect x="25" y="64" width="445" height="8" rx="4" fill="#16161e"/>
-<rect x="25" y="64" width="277.9" height="8" rx="4" fill="#7aa2f7"/>
+<rect x="25" y="64" width="278.1" height="8" rx="4" fill="#7aa2f7"/>
 <text x="25" y="88" fill="#a9b1d6" font-size="12.5">TypeScript</text>
 <text x="470" y="88" fill="#a9b1d6" font-size="12.5" text-anchor="end">15.2%</text>
 <rect x="25" y="94" width="445" height="8" rx="4" fill="#16161e"/>
-<rect x="25" y="94" width="67.8" height="8" rx="4" fill="#9ece6a"/>
+<rect x="25" y="94" width="67.7" height="8" rx="4" fill="#9ece6a"/>
 <text x="25" y="118" fill="#a9b1d6" font-size="12.5">JavaScript</text>
 <text x="470" y="118" fill="#a9b1d6" font-size="12.5" text-anchor="end">10.7%</text>
 <rect x="25" y="124" width="445" height="8" rx="4" fill="#16161e"/>
