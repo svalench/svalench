@@ -67,8 +67,6 @@
 
 - 🔧 [**fastapi_viewsets**](https://github.com/svalench/fastapi_viewsets) — Django REST-style ViewSets for FastAPI, auto-generate CRUD from SQLAlchemy / Tortoise / Peewee
 - 🔍 [**django_graph_search**](https://github.com/svalench/django_graph_search) — Semantic vector search for Django across FK, M2M, reverse relations (ChromaDB, FAISS, Qdrant)
-- 🧪 [**testcaseer**](https://github.com/svalench/testcaseer) — CLI tool that transforms browser actions into test cases & AI-readable reports
-
 
 ---
 
